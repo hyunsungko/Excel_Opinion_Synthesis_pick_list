@@ -1,0 +1,6 @@
+2024-10-28 23:45:24,049 - __main__ - ERROR - 애플리케이션 실행 중 오류 발생: 'OpinionSynthesisApp' object has no attribute 'create_widgets'
+2024-10-28 23:46:14,998 - __main__ - ERROR - 애플리케이션 실행 중 오류 발생: 'ToolTip' object has no attribute 'show_tip'
+2024-10-28 23:47:04,951 - ui.main_window - INFO - 3개의 파일이 선택됨
+2024-10-28 23:47:06,274 - core.data_processor - INFO - 파일 처리 시작
+2024-10-28 23:47:06,357 - core.data_processor - INFO - 데이터 병합 완료
+2024-10-28 23:47:13,899 - core.data_processor - INFO - 파일 저장 완료: //pc01/공유폴더/T2_개별선정/1_시작/선정리스트/선정리스트 종합_20241028_234706.xlsx

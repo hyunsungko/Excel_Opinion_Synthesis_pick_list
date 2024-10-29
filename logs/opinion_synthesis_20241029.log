@@ -1,0 +1,9 @@
+2024-10-29 00:29:05,513 - ui.main_window - INFO - 3개의 파일이 선택됨
+2024-10-29 00:29:06,700 - core.data_processor - INFO - 파일 처리 시작
+2024-10-29 00:29:06,779 - core.data_processor - INFO - 데이터 병합 완료
+2024-10-29 00:29:09,814 - core.data_processor - INFO - 파일 저장 완료: //pc01/공유폴더/T2_개별선정/1_시작/선정리스트/선정리스트 종합_20241029_002906.xlsx
+2024-10-29 00:35:01,607 - ui.main_window - INFO - 3개의 파일이 선택됨
+2024-10-29 00:35:09,160 - core.data_processor - INFO - 파일 처리 시작
+2024-10-29 00:35:09,245 - core.data_processor - INFO - 데이터 병합 완료
+2024-10-29 00:35:11,666 - core.data_processor - INFO - 파일 저장 완료: //pc01/공유폴더/T2_개별선정/1_시작/선정리스트/선정리스트 종합_20241029_003509.xlsx
+2024-10-29 00:36:59,622 - ui.main_window - INFO - 3개의 파일이 선택됨
